@@ -5,7 +5,10 @@ MaxShop
 
     <CatalogProduse v-if="showCatalogProduse" />
     <LivrareInformatii v-if="showLivrare" />
-    <p>Versiune: 1</p>
+    <p>Versiune: 1</p> <v-btn
+    color="primary"
+    elevation="2"
+  >Versiune: 1</v-btn>
   </div>
 </template>
 
