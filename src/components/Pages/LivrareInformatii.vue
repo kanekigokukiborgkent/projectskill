@@ -1,4 +1,3 @@
-LivrareInfomratii
 <template>
     <div class="hello"> 
   

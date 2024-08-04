@@ -1,7 +1,7 @@
 <template>
-    <div class="hello"> 
+    <div > 
   
-       <p>CatalogProduse</p>
+       <p>HomePage</p>
     </div>
   </template>
   
@@ -11,7 +11,7 @@
       return {
       }
     },
-    name: 'MaxShop',
+    name: 'HomePage',
     props: {
     },
     components: { 

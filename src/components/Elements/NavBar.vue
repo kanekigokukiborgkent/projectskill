@@ -2,7 +2,7 @@ NavBar
 
 <template>
   <div class="NavBarBody">
-    <div @click="GetIdPage('MaxShop')" class="ButtonNav">
+    <div @click="GetIdPage('HomePage')" class="ButtonNav">
       <img src="@/assets/MaxShop.png" alt="MaxShop_Logo" class="ImgCLick" />
     </div>
     <div @click="GetIdPage('Catalog')" class="ButtonNav">Catalog</div>
