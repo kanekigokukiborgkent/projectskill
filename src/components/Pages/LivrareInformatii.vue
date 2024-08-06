@@ -1,7 +1,7 @@
 <template>
     <div class="hello"> 
   
-       <p>Livrare Infomratii</p>
+       <!-- <p>Livrare Infomratii</p> -->
     </div>
   </template>
   

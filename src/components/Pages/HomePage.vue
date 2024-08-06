@@ -1,7 +1,7 @@
 <template>
-    <div > 
-  
-       <p>HomePage</p>
+    <div class="HomePage"> 
+<!--   
+       <p>HomePage</p> -->
     </div>
   </template>
   
@@ -22,7 +22,8 @@
   }
   </script>
    
-  <style scoped>
-   
+  <style scoped> 
+    .HomePage{
+    }
   </style>
   
